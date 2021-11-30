@@ -1,0 +1,23 @@
+.form input{
+    width: 80%;
+    padding: 20px;
+    margin-top: 20px;
+    font-weight: 600;
+    border: none;
+    border-radius: 20px;
+}
+.message{
+    width: 80%;
+    padding: 20px;
+    margin-top: 20px;
+    font-weight: 600;
+    border: none;
+    border-radius: 20px;
+}
+.submit-btn{
+    background-color: tomato;
+    color: white;
+}
+.submit-btn:hover{
+    background-color: crimson;
+}

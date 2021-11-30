@@ -1,0 +1,13 @@
+.about-section{
+    margin-top: 150px;
+}
+.about-detail{
+    background-color: #302f4e;
+    padding: 50px;
+    border-radius: 20px;
+}
+.underline{
+    margin-bottom: 30px;
+    color: gray;
+}
+

@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "img1": "https://i.ibb.co/z5895L0/Screenshot-20.png",
+        "img2": "https://i.ibb.co/bJG8Q40/Screenshot-1.png",
+        "img3": "https://i.ibb.co/b3Wqztr/Screenshot-2.png",
+        "name": "MEDICO",
+        "technology": "CSS3, Bootstrap, JavaScript, React, React Router,Firebase",
+        "details": "Users can use authentication firebase login with google and also create an account with email and password.The user sees all services and also sees service details.It’s a Single page React web application.",
+        "githhubClient": "https://github.com/Masud404/healthcare-website"
+    },
+    {
+        "id": 2,
+        "img1": "https://i.ibb.co/Pj7tcbf/Screenshot-3.png",
+        "img2": "https://i.ibb.co/kS7NTDq/Screenshot-4.png",
+        "img3": "https://i.ibb.co/8xhRwm1/Screenshot-5.png",
+        "name": "VacaDay",
+        "technology": "CSS3, Bootstrap, JavaScript, React, React Router, Firebase, Node js, MongoDB, Express js.",
+        "details": "Users log in and register with google authentication.Users can book any tour they want.The user can see her order booking in the dashboard and also delete his own booking item.",
+        "githhubClient": "https://github.com/Masud404/tourism-website-client",
+        "githubServer": "https://github.com/Masud404/tourism-website-server"
+    },
+    {
+        "id": 3,
+        "img1": "https://i.ibb.co/bmwtVZp/Screenshot-6.png",
+        "img2": "https://i.ibb.co/h885T6Y/Screenshot-7.png",
+        "img3": "https://i.ibb.co/mBG30bP/Screenshot-8.png",
+        "name": "ROTORS",
+        "technology": "CSS3, Bootstrap, JavaScript, React, React Router, Firebase, Node js, MongoDB, Express js.",
+        "details": "Users can log in and register with Email, Password, And Google Authentication.Users can manage their orders and add reviews.Admin can add products on the website and also can add an admin.",
+        "githhubClient": "https://github.com/Masud404/car-website-client",
+        "githubServer": "https://github.com/Masud404/car-website-server"
+    },
+    {
+        "id": 4,
+        "img1": "https://i.ibb.co/6mtZvV2/Screenshot-9.png",
+        "img2": "https://i.ibb.co/pdXbBP1/Screenshot-10.png",
+        "img3": "https://i.ibb.co/G2N0MkV/Screenshot-11.png",
+        "name": "GLAXDU",
+        "technology": "React js, Bootstrap, React-Router",
+        "details": "Built with React js.It is a single React web application.This educational website.When user come to website user see header, menubar, and servercie.User can go another page.",
+        "githhubClient": "https://github.com/Masud404/educational-website"
+    },
+    {
+        "id": 5,
+        "img1": "https://i.ibb.co/RHnwg4k/Screenshot-12.png",
+        "img2": "https://i.ibb.co/rf5py0n/Screenshot-13.png",
+        "img3": "https://i.ibb.co/f0013LR/Screenshot-14.png",
+        "name": "SUPER HERO",
+        "technology": "HTML,CSS,Bootstrap,JavaScript",
+        "details": "Super Hero Related Website built With JavaScript.When you go this website you see many USA president.You can also add the president in a cart.",
+        "githhubClient": "https://github.com/Masud404/american-president-website"
+    },
+    {
+        "id": 6,
+        "img1": "https://i.ibb.co/cDcRVWL/Screenshot-15.png",
+        "img2": "https://i.ibb.co/T46KwyH/Screenshot-16.png",
+        "img3": "https://i.ibb.co/tKQj2cX/Screenshot-17.png",
+        "name": "Honda CBR 300R",
+        "technology": "HTML,CSS,Bootstrap",
+        "details": "Bike Related Website built With Bootstrap.This website made in Bootstrap.This is Honda CBR 300R bike website.User can see history of honda and user can see many hondas golobal model.",
+        "githhubClient": "https://github.com/Masud404/honda-cbr-bootstrap-website"
+    }
+]

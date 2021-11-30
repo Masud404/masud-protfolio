@@ -1,0 +1,28 @@
+.nav-bar{
+    background-color: #353353;
+    border-bottom:1px solid rgba(255, 255, 255, 0.1);
+    padding: 15px;
+}
+
+.nav-items a {
+    font-size: 17px;
+    font-weight: 700;
+    margin-right: 20px;
+    color: white;
+    margin-top: 10px;
+}
+.nav-items a:hover{
+    color: rgb(246, 231, 16);
+}
+.resume-btn{
+    border: 1px solid crimson;
+    background-color: #353353;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px;
+}
+.resume-btn:hover{
+    background-color: crimson;
+    color: white;
+}
